@@ -4,4 +4,4 @@ gen/
 node_modules/
 KakaoLoginExample/
 
-index.ts
+# index.ts
